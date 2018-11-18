@@ -7,5 +7,5 @@ pool:
   vmImage: 'Ubuntu 16.04'
 
 steps:
-- task: nukeeper.nukeeper.nukeeper.nukeeper@0
+- task: nukeeper.nukeeper.nukeeper.nukeeper@0.1.20
   displayName: NuKeeper
